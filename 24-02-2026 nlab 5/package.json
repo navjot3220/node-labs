@@ -1,0 +1,16 @@
+{
+  "name": "24-02-2026-lab-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "astcAwait.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

@@ -1,0 +1,24 @@
+StudentID: 101
+Skill: HTML
+Level: Intermediate
+Projects: 5
+
+StudentID: 101
+Skill: CSS
+Level: Intermediate
+Projects: 4
+
+StudentID: 101
+Skill: JavaScript
+Level: Beginner
+Projects: 2
+
+StudentID: 102
+Skill: C++
+Level: Advanced
+Projects: 8
+
+StudentID: 103
+Skill: Python
+Level: Intermediate
+Projects: 6

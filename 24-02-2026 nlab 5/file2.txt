@@ -1,0 +1,23 @@
+CourseID: C101
+CourseName: Data Structures
+Credits: 4
+Instructor: Dr. Mehta
+Semester: 2
+
+CourseID: C102
+CourseName: Object Oriented Programming
+Credits: 4
+Instructor: Prof. Sharma
+Semester: 1
+
+CourseID: C103
+CourseName: Database Management System
+Credits: 3
+Instructor: Dr. Verma
+Semester: 3
+
+CourseID: C104
+CourseName: Web Development
+Credits: 3
+Instructor: Mr. Jain
+Semester: 2

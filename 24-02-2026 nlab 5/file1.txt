@@ -1,0 +1,26 @@
+ID: 101
+Name: Shubham Vaishnav
+Age: 19
+City: Jaipur
+Stream: BTech CSE
+Year: 1st Year
+CGPA: 8.2
+College: Rajasthan Technical University
+
+ID: 102
+Name: Rahul Sharma
+Age: 20
+City: Udaipur
+Stream: BTech IT
+Year: 2nd Year
+CGPA: 7.8
+College: JECRC University
+
+ID: 103
+Name: Priya Singh
+Age: 19
+City: Kota
+Stream: BTech CSE
+Year: 1st Year
+CGPA: 8.9
+College: Poornima College
