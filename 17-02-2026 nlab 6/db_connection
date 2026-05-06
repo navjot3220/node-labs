@@ -1,0 +1,23 @@
+const { MongoClient } = require('mongodb');
+//const url = "mongodb://127.0.0.1:27017";
+const url = "mongodb+srv://nickmongodb:db88863220@cluster1.wdxxvcc.mongodb.net/";
+
+const client = new MongoClient(url);
+
+let db;
+
+async function connectDB() {
+    try {
+        await client.connect();
+        db = client.db("collegeDB");
+        console.log(" MongoDB Connected Successfully");
+    } catch (error) {
+        console.error(" Database Connection Failed:", error);
+    }
+}
+
+function getDB() {
+    return db;
+}
+
+module.exports = { connectDB, getDB };
